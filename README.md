@@ -21,3 +21,5 @@ Nhóm chức năng trong trường hợp đặc biệt bao gồm: gửi thông b
 [HMI Project - Usafe: Supporting system for Elderly](https://bit.ly/Project-demo)
 ## Source
 [Usafe - Supporting system for Elderly](https://www.figma.com/file/HOqVYhx0JEU41jiPGv7UgA/Usafe---Supporting-system-for-Elderly?node-id=0%3A1&t=nWsz2dK23KXgw6aI-1)
+## Workflow
+![workflow](./Poster.png)
