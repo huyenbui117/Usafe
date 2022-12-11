@@ -1,9 +1,13 @@
 # Usafe
 **HỆ THỐNG PHÂN TÍCH THEO DÕI HÀNH VI BẤT THƯỜNG HỖ TRỢ NGƯỜI CAO TUỔI SỐNG AN TOÀN Ở NHÀ MỘT MÌNH**
 
-Môn học: Tương tác người máy INT2041 40
+Tài liệu chi tiết: [Usafe - Hệ thống phân tích theo dõi hành vi bất thường hỗ trợ người cao tuổi sống an toàn ở nhà một mình](https://drive.google.com/file/d/1Ch2Yj9jXCmLxIdXyT5UVfnHhoy2ytE_Z/view?usp=share_link)
+
+Môn học: Tương tác người máy **INT2041 40**
 
 ## Các thành viên của nhóm:
+Nhóm 6
+
 Bùi Khánh Huyền - 19021307
 
 Nguyễn Minh Quy - 20021418
